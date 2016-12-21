@@ -13,6 +13,4 @@ Goal of this week 12/19 ~ 12/21:
 	Gukyoung: Ground Control
 	Bryan: Flight
 	Duy: Data Communication
-	Hughens: Sensor
-
-temporary test
+  Hughens: Sensor
