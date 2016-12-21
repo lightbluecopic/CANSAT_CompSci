@@ -3,7 +3,11 @@
 Type your name and commit to master:
 Gukyoung An
 Duy Tang
+
+Bryan Tavera 201
+
 Hughens Dorcely
+
 
 
 Goal of this week 12/19 ~ 12/21:
