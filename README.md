@@ -4,6 +4,7 @@ Type your name and commit to master:
 Gukyoung An
 Duy Tang
 
+
 Goal of this week 12/19 ~ 12/21:
 
 1. Familiarize with C and C#
@@ -12,4 +13,4 @@ Goal of this week 12/19 ~ 12/21:
 	Gukyoung: Ground Control
 	Bryan: Flight
 	Duy: Data Communication
-	Hughens: Sensor
+  Hughens: Sensor
