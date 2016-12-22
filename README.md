@@ -3,7 +3,11 @@
 Type your name and commit to master:
 Gukyoung An
 Duy Tang
+
+Bryan Tavera 201
+
 Hughens Dorcely
+
 
 
 Goal of this week 12/19 ~ 12/21:
@@ -14,4 +18,5 @@ Goal of this week 12/19 ~ 12/21:
 	Gukyoung: Ground Control
 	Bryan: Flight
 	Duy: Data Communication
-  Hughens: Sensor
+  	Hughens: Sensor
+4. Something something
