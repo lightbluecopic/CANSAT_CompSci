@@ -39,3 +39,9 @@ Programming files (Glider/Ground Control):
 https://www.arduino.cc/en/Tutorial/HomePage
 
 https://www.faludi.com/itp_coursework/meshnetworking/XBee/XBee_program_Arduino_wireless.html
+
+REQUIREMENTS:
+
+ altitude: 400 meters +/- 10 m
+
+ weight(hardware): 500 grams +/- 10 grams.
