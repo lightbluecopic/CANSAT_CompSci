@@ -1,0 +1,31 @@
+Software
+
+[glider, container]
+
+How does it sent its telemetry?
+	sendPacket
+	
+[container]
+How does it release glider?
+
+How does it receive override glider release command?
+	
+[glider]
+How does it get temperature?
+How does it get altitude?
+How does it get speed?
+How does it get direction?
+How does it get voltage? (solar)
+
+	setSensors
+	getMeasurements
+
+[ground control]
+
+How to plot telemetry real time? 
+GUI
+
+How to give override glider release command?
+
+Overheating mitigation
+Auto update mitigation 
