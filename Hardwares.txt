@@ -1,0 +1,22 @@
+HARDWARE
+
+Container
+	Radio
+	Microcontroller
+	
+Glider
+	Radio
+	Microcontroller
+	
+	
+Sensors
+
+Direction : magnetometer : 
+Pressure : barometer
+Temperature : thermometer
+Speed : pitot tube
+Altitude : altimeter
+
+update rate, dimensions, mass, [price]
+
+accuracy, range
