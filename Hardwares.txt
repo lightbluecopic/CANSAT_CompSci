@@ -20,3 +20,7 @@ Altitude : altimeter
 update rate, dimensions, mass, [price]
 
 accuracy, range
+
+Radio
+
+	GHz, mass, 

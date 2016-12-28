@@ -5,6 +5,9 @@ Software
 How does it sent its telemetry?
 	sendPacket
 	
+How does it activate audio beacon?
+	audiobeacon
+
 [container]
 How does it release glider?
 
@@ -27,5 +30,6 @@ GUI
 
 How to give override glider release command?
 
-Overheating mitigation
-Auto update mitigation 
+	sendOverride?
+
+How to convert the telemetry to cvs and save it to a thumb drive?
