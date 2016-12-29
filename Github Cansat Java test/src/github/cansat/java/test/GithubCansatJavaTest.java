@@ -6,7 +6,9 @@
 package github.cansat.java.test;
 
 /**
-This code has been written by upgrdman (Youtube)
+* This code has been written by upgrdman (Youtube)
+* https://www.youtube.com/watch?v=8B6j_yr9H8g
+* therefore use it as example
 * 
  */
 import java.util.Scanner;
@@ -32,7 +34,7 @@ public class GithubCansatJavaTest{
 			System.out.println(i++ +  ": " + port.getSystemPortName());
 		Scanner s = new Scanner(System.in);
 		int chosenPort = s.nextInt();
-
+                
 		SerialPort serialPort = ports[chosenPort - 1];
 		if(serialPort.openPort())
 			System.out.println("Port opened successfully.");
