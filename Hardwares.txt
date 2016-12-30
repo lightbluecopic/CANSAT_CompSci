@@ -17,6 +17,9 @@ Temperature : thermometer
 Speed : pitot tube
 Altitude : altimeter
 
+Voltage: potentiometer
+Location: GPS
+
 update rate, dimensions, mass, [price]
 
 accuracy, range
